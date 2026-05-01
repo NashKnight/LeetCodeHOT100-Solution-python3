@@ -15,7 +15,7 @@
 
 ## 题目列表
 
-### Part 1 · Hashing / 哈希 · [slides](slides/part1-Hashing-Q1-3.pdf)
+### 01 · Hashing / 哈希 · [slides](slides/01-Hashing-Q1-3.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -23,7 +23,7 @@
 | 2 | Medium | [49](https://leetcode.cn/problems/group-anagrams/) | 字母异位词分组 |
 | 3 | Medium | [128](https://leetcode.cn/problems/longest-consecutive-sequence/) | 最长连续序列 |
 
-### Part 2 · Two Pointers / 双指针 · [slides](slides/part2-TwoPointers-Q4-7.pdf)
+### 02 · Two Pointers / 双指针 · [slides](slides/02-TwoPointers-Q4-7.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -31,20 +31,20 @@
 | 5 | Medium | [11](https://leetcode.cn/problems/container-with-most-water/) | 盛最多水的容器 |
 | 6 | Medium | [15](https://leetcode.cn/problems/3sum/) | 三数之和 |
 
-### Part 3 · Sliding Window / 滑动窗口 · [slides](slides/part3-SlidingWindow-Q8-9.pdf)
+### 03 · Sliding Window / 滑动窗口 · [slides](slides/03-SlidingWindow-Q8-9.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
 | 7 | Medium | [3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 无重复字符的最长子串 |
 | 8 | Medium | [438](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | 找到字符串中所有字母异位词 |
 
-### Part 4 · Substring / 子串 · [slides](slides/part4-Substring-Q10-12.pdf)
+### 04 · Substring / 子串 · [slides](slides/04-Substring-Q10-12.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
 | 9 | Medium | [560](https://leetcode.cn/problems/subarray-sum-equals-k/) | 和为 K 的子数组 |
 
-### Part 5 · Arrays / 普通数组 · [slides](slides/part5-Arrays-Q13-17.pdf)
+### 05 · Arrays / 普通数组 · [slides](slides/05-Arrays-Q13-17.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -53,7 +53,7 @@
 | 12 | Medium | [189](https://leetcode.cn/problems/rotate-array/) | 轮转数组 |
 | 13 | Medium | [238](https://leetcode.cn/problems/product-of-array-except-self/) | 除自身以外数组的乘积 |
 
-### Part 6 · Matrix / 矩阵 · [slides](slides/part6-Matrix-Q18-21.pdf)
+### 06 · Matrix / 矩阵 · [slides](slides/06-Matrix-Q18-21.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -62,7 +62,7 @@
 | 16 | Medium | [48](https://leetcode.cn/problems/rotate-image/) | 旋转图像 |
 | 17 | Medium | [240](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | 搜索二维矩阵 II |
 
-### Part 7 · Linked Lists / 链表 · [slides](slides/part7-LinkedLists-Q22-35.pdf)
+### 07 · Linked Lists / 链表 · [slides](slides/07-LinkedLists-Q22-35.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -78,7 +78,7 @@
 | 27 | Medium | [148](https://leetcode.cn/problems/sort-list/) | 排序链表 |
 | 28 | Medium | [146](https://leetcode.cn/problems/lru-cache/) | LRU 缓存 |
 
-### Part 8 · Binary Tree / 二叉树 · [slides](slides/part8-BinaryTree-Q36-50.pdf)
+### 08 · Binary Tree / 二叉树 · [slides](slides/08-BinaryTree-Q36-50.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -96,7 +96,7 @@
 | 40 | Medium | [437](https://leetcode.cn/problems/path-sum-iii/) | 路径总和 III |
 | 41 | Medium | [236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 二叉树的最近公共祖先 |
 
-### Part 9 · Graph / 图论 · [slides](slides/part9-Graph-Q51-54.pdf)
+### 09 · Graph / 图论 · [slides](slides/09-Graph-Q51-54.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -105,7 +105,7 @@
 | 44 | Medium | [207](https://leetcode.cn/problems/course-schedule/) | 课程表 |
 | 45 | Medium | [208](https://leetcode.cn/problems/implement-trie-prefix-tree/) | 实现 Trie (前缀树) |
 
-### Part 10 · Backtracking / 回溯法 · [slides](slides/part10-Backtracking-Q55-62.pdf)
+### 10 · Backtracking / 回溯法 · [slides](slides/10-Backtracking-Q55-62.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -117,7 +117,7 @@
 | 51 | Medium | [79](https://leetcode.cn/problems/word-search/) | 单词搜索 |
 | 52 | Medium | [131](https://leetcode.cn/problems/palindrome-partitioning/) | 分割回文串 |
 
-### Part 11 · Binary Search / 二分查找 · [slides](slides/part11-BinarySearch-Q63-68.pdf)
+### 11 · Binary Search / 二分查找 · [slides](slides/11-BinarySearch-Q63-68.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -127,7 +127,7 @@
 | 56 | Medium | [33](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | 搜索旋转排序数组 |
 | 57 | Medium | [153](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | 寻找旋转排序数组中的最小值 |
 
-### Part 12 · Stack / 栈 · [slides](slides/part12-Stack-Q69-73.pdf)
+### 12 · Stack / 栈 · [slides](slides/12-Stack-Q69-73.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -136,14 +136,14 @@
 | 60 | Medium | [394](https://leetcode.cn/problems/decode-string/) | 字符串解码 |
 | 61 | Medium | [739](https://leetcode.cn/problems/daily-temperatures/) | 每日温度 |
 
-### Part 13 · Heap / 堆 · [slides](slides/part13-Heap-Q74-76.pdf)
+### 13 · Heap / 堆 · [slides](slides/13-Heap-Q74-76.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
 | 62 | Medium | [215](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 数组中第 K 个最大元素 |
 | 63 | Medium | [347](https://leetcode.cn/problems/top-k-frequent-elements/) | 前 K 个高频元素 |
 
-### Part 14 · Greedy / 贪心算法 · [slides](slides/part14-Greedy-Q77-80.pdf)
+### 14 · Greedy / 贪心算法 · [slides](slides/14-Greedy-Q77-80.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -152,7 +152,7 @@
 | 66 | Medium | [45](https://leetcode.cn/problems/jump-game-ii/) | 跳跃游戏 II |
 | 67 | Medium | [763](https://leetcode.cn/problems/partition-labels/) | 划分字母区间 |
 
-### Part 15 · Dynamic Programming / 动态规划 · [slides](slides/part15-DynamicProgramming-Q81-90.pdf)
+### 15 · Dynamic Programming / 动态规划 · [slides](slides/15-DynamicProgramming-Q81-90.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -167,7 +167,7 @@
 | 76 | Medium | [416](https://leetcode.cn/problems/partition-equal-subset-sum/) | 分割等和子集 |
 | 77 | Hard | [32](https://leetcode.cn/problems/longest-valid-parentheses/) | 最长有效括号 |
 
-### Part 16 · Multidimensional DP / 多维动态规划 · [slides](slides/part16-MultidimensionalDynamicProgramming-Q91-95.pdf)
+### 16 · Multidimensional DP / 多维动态规划 · [slides](slides/16-MultidimensionalDynamicProgramming-Q91-95.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
@@ -177,7 +177,7 @@
 | 81 | Medium | [1143](https://leetcode.cn/problems/longest-common-subsequence/) | 最长公共子序列 |
 | 82 | Medium | [72](https://leetcode.cn/problems/edit-distance/) | 编辑距离 |
 
-### Part 17 · Tricks / 技巧 · [slides](slides/part17-Tricks-Q96-100.pdf)
+### 17 · Tricks / 技巧 · [slides](slides/17-Tricks-Q96-100.pdf)
 
 | # | Difficulty | 题号 | 题目 |
 |---|-----------|------|------|
