@@ -1,0 +1,19 @@
+name: Sync to Gitee
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to Gitee
+        run: |
+          git remote add gitee https://Nash-Knight:${{ secrets.GITEE_TOKEN }}@gitee.com/Nash-Knight/LeetCodeHOT100-Solution-python3.git
+          git push gitee main --force
