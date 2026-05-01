@@ -12,7 +12,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Push to Gitee
         run: |
           git remote add gitee https://Nash-Knight:${{ secrets.GITEE_TOKEN }}@gitee.com/Nash-Knight/LeetCodeHOT100-Solution-python3.git
